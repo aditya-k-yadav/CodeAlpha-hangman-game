@@ -1,0 +1,7 @@
+# Hangman Game - Requirements
+# This project uses only Python's built-in standard library.
+# No external packages need to be installed.
+#
+# Standard library modules used: random
+#
+# Minimum Python version: 3.6+
