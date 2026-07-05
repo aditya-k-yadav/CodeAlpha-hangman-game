@@ -91,7 +91,7 @@ python main.py
 
 ## 📜 License
 
-This project is open-source and intended for learning purposes.
+MIT
 
 ---
 
